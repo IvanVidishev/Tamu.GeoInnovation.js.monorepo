@@ -190,6 +190,9 @@
     },
     "oidc": {
       "tags": []
+    },
+    "oidc-client-test": {
+      "tags": []
     }
   }
 }
